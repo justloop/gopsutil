@@ -8,8 +8,7 @@ import (
 	"strings"
 	"sync"
 	"time"
-
-	"github.com/shirou/gopsutil/internal/common"
+	"github.com/justloop/gopsutil/internal/common"
 )
 
 type TimesStat struct {
